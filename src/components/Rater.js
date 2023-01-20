@@ -12,4 +12,3 @@ function Rater() {
     )
 }
 export default Rater;
-C

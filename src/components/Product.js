@@ -27,4 +27,4 @@ function Product() {
     </div>
   );
 }
-export default Product;C
+export default Product;
